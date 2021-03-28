@@ -64,12 +64,8 @@ for song in songs_paths:
 	ftype = ext[-1]
 	# import pdb;pdb.set_trace();
 	if ftype=="mp3":
-
 		audio, sr = librosa.load(song)
-		
 		kind = filetype.guess(song)
-		#
-
 		#stft
 		stft = librosa.stft(audio, n_fft = FRAME_SIZE, hop_length = HOP_SIZE)
 		log_freq_spect = librosa.power_to_db(np.abs(stft)**2)
@@ -78,9 +74,10 @@ for song in songs_paths:
 		pylab.axis('off') 
 		pylab.axes([0., 0., 1., 1.], frameon=False, xticks=[], yticks=[]) # Remove the white edge
 		librosa.display.specshow(log_freq_spect, sr=sr, hop_length=HOP_SIZE, x_axis="time", y_axis="log")
+		if not os.path.exists('Spectrograms'):
+			os.makedirs('Spectrograms')
 		pylab.savefig("Spectrograms/"+song_name+'.jpg', bbox_inches=None, pad_inches=0)
 		pylab.close()
-
 		print("Plotted "+song_name+" - "+str(i)+" of "+str(len(songs_paths)))
 		i=i+1
 
