@@ -1,0 +1,632 @@
+Using TensorFlow backend.
+2021-04-01 01:22:33.666065: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+Label: prog nonprog corresponding to [1 0]
+Processing... -04- Knots.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 1 / 97 ....Current results  Counter({'#Patterns': 238, '#CorrectPatternPred': 109, '#Songs': 1, '#CorrectSongPred': 0})
+Processing... 01 - '2112' (I. Overture, II. The Temples Of Syrinx, III. Discovery, IV. Presentation, V. Oracle_ The Dream, VI. Soliloquy, VII. Grand Finale).mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 2 / 97 ....Current results  Counter({'#Patterns': 1462, '#CorrectPatternPred': 696, '#Songs': 2, '#CorrectSongPred': 0})
+Processing... 01 - Birds of Fire.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 3 / 97 ....Current results  Counter({'#Patterns': 1794, '#CorrectPatternPred': 995, '#Songs': 3, '#CorrectSongPred': 1})
+Processing... 01 - Luminol.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 4 / 97 ....Current results  Counter({'#Patterns': 2511, '#CorrectPatternPred': 1630, '#Songs': 4, '#CorrectSongPred': 2})
+Processing... 01 - Phaedra.flac
+Validating song No. 5 / 97 ....Current results  Counter({'#Patterns': 2511, '#CorrectPatternPred': 1630, '#Songs': 4, '#CorrectSongPred': 2})
+Processing... 01 - Roundabout.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 6 / 97 ....Current results  Counter({'#Patterns': 3010, '#CorrectPatternPred': 2084, '#Songs': 5, '#CorrectSongPred': 3})
+Processing... 01 - Songs From The Wood (2003 Digital Remaster).mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 7 / 97 ....Current results  Counter({'#Patterns': 3290, '#CorrectPatternPred': 2237, '#Songs': 6, '#CorrectSongPred': 4})
+Processing... 01 A Change of Seasons_ I. The Crimson Sunrise _ II. Innocence _ III. Carpe Diem _ IV. The Darkest of Winters _ V. Another World _ VI. The Inevitable Summer _ VII. The Crimson Sunset.flac
+Validating song No. 8 / 97 ....Current results  Counter({'#Patterns': 3290, '#CorrectPatternPred': 2237, '#Songs': 6, '#CorrectSongPred': 4})
+Processing... 01 Close to the Edge I. The Solid Time of Change II. Total Mass Retain III.  I GetUp I Get Down IV. Seasons of Man).mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 9 / 97 ....Current results  Counter({'#Patterns': 4389, '#CorrectPatternPred': 3102, '#Songs': 7, '#CorrectSongPred': 5})
+Processing... 01 Jordrok.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 10 / 97 ....Current results  Counter({'#Patterns': 5043, '#CorrectPatternPred': 3633, '#Songs': 8, '#CorrectSongPred': 6})
+Processing... 01 Meeting of the Spirits.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 11 / 97 ....Current results  Counter({'#Patterns': 5442, '#CorrectPatternPred': 3989, '#Songs': 9, '#CorrectSongPred': 7})
+Processing... 01 Peaches En Regalia.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 12 / 97 ....Current results  Counter({'#Patterns': 5647, '#CorrectPatternPred': 4175, '#Songs': 10, '#CorrectSongPred': 8})
+Processing... 01 Script For A Jester's Tear.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 13 / 97 ....Current results  Counter({'#Patterns': 6157, '#CorrectPatternPred': 4513, '#Songs': 11, '#CorrectSongPred': 9})
+Processing... 01 The Gates Of Delirium.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 14 / 97 ....Current results  Counter({'#Patterns': 7454, '#CorrectPatternPred': 5397, '#Songs': 12, '#CorrectSongPred': 10})
+Processing... 01-genesis-dancing_with_the_moonlit_knight.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 15 / 97 ....Current results  Counter({'#Patterns': 7922, '#CorrectPatternPred': 5719, '#Songs': 13, '#CorrectSongPred': 11})
+Processing... 01-Hocus Pocus.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 16 / 97 ....Current results  Counter({'#Patterns': 8311, '#CorrectPatternPred': 6085, '#Songs': 14, '#CorrectSongPred': 12})
+Processing... 01-hymn_of_the_seventh_galaxy_320_lame_cbr.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 17 / 97 ....Current results  Counter({'#Patterns': 8507, '#CorrectPatternPred': 6275, '#Songs': 15, '#CorrectSongPred': 13})
+Processing... 01. Folklore.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 18 / 97 ....Current results  Counter({'#Patterns': 8945, '#CorrectPatternPred': 6569, '#Songs': 16, '#CorrectSongPred': 14})
+Processing... 01. Hallogallo.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 19 / 97 ....Current results  Counter({'#Patterns': 9542, '#CorrectPatternPred': 6994, '#Songs': 17, '#CorrectSongPred': 15})
+Processing... 01. Hazard Profile Part One.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 20 / 97 ....Current results  Counter({'#Patterns': 10090, '#CorrectPatternPred': 7531, '#Songs': 18, '#CorrectSongPred': 16})
+Processing... 01. The Same River.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 21 / 97 ....Current results  Counter({'#Patterns': 10801, '#CorrectPatternPred': 7991, '#Songs': 19, '#CorrectSongPred': 17})
+Processing... 01.A passion play 1.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 22 / 97 ....Current results  Counter({'#Patterns': 12176, '#CorrectPatternPred': 8981, '#Songs': 20, '#CorrectSongPred': 18})
+Processing... 01_-_the_revealing_science_of_god_-_dance_of_the_dawn_320_lame_cbr.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 23 / 97 ....Current results  Counter({'#Patterns': 13387, '#CorrectPatternPred': 9748, '#Songs': 21, '#CorrectSongPred': 19})
+Processing... 01_Genesis_The Musical Box.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 24 / 97 ....Current results  Counter({'#Patterns': 14000, '#CorrectPatternPred': 10052, '#Songs': 22, '#CorrectSongPred': 19})
+Processing... 01_Genesis_Watcher of the Skies.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 25 / 97 ....Current results  Counter({'#Patterns': 14429, '#CorrectPatternPred': 10337, '#Songs': 23, '#CorrectSongPred': 20})
+Processing... 01_Shine On You Crazy Diamond I.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 26 / 97 ....Current results  Counter({'#Patterns': 15232, '#CorrectPatternPred': 10755, '#Songs': 24, '#CorrectSongPred': 21})
+Processing... 01_Yours Is No Disgrace.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 27 / 97 ....Current results  Counter({'#Patterns': 15804, '#CorrectPatternPred': 11209, '#Songs': 25, '#CorrectSongPred': 22})
+Processing... 02 - Arbeit Macht Frei.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 28 / 97 ....Current results  Counter({'#Patterns': 16274, '#CorrectPatternPred': 11617, '#Songs': 26, '#CorrectSongPred': 23})
+Processing... 02 Can You Understand.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 29 / 97 ....Current results  Counter({'#Patterns': 16884, '#CorrectPatternPred': 12113, '#Songs': 27, '#CorrectSongPred': 24})
+Processing... 02 In a Silent Way...It's About that Time.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 30 / 97 ....Current results  Counter({'#Patterns': 18065, '#CorrectPatternPred': 12488, '#Songs': 28, '#CorrectSongPred': 24})
+Processing... 02. Bleed (live).mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 31 / 97 ....Current results  Counter({'#Patterns': 18507, '#CorrectPatternPred': 12890, '#Songs': 29, '#CorrectSongPred': 25})
+Processing... 02_Dogs.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 32 / 97 ....Current results  Counter({'#Patterns': 19522, '#CorrectPatternPred': 13798, '#Songs': 30, '#CorrectSongPred': 26})
+Processing... 03 - Halleluwah.flac
+Validating song No. 33 / 97 ....Current results  Counter({'#Patterns': 19522, '#CorrectPatternPred': 13798, '#Songs': 30, '#CorrectSongPred': 26})
+Processing... 03 A Plague of Lighthouse Keepers.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 34 / 97 ....Current results  Counter({'#Patterns': 20894, '#CorrectPatternPred': 14473, '#Songs': 31, '#CorrectSongPred': 26})
+Processing... 03-genesis-firth_of_fifth.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 35 / 97 ....Current results  Counter({'#Patterns': 21454, '#CorrectPatternPred': 14949, '#Songs': 32, '#CorrectSongPred': 27})
+Processing... 03Uriah Heep - July Morning.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 36 / 97 ....Current results  Counter({'#Patterns': 22071, '#CorrectPatternPred': 15502, '#Songs': 33, '#CorrectSongPred': 28})
+Processing... 03_Anesthetize.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 37 / 97 ....Current results  Counter({'#Patterns': 23124, '#CorrectPatternPred': 16470, '#Songs': 34, '#CorrectSongPred': 29})
+Processing... 03_Time.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 38 / 97 ....Current results  Counter({'#Patterns': 23538, '#CorrectPatternPred': 16703, '#Songs': 35, '#CorrectSongPred': 30})
+Processing... 03_YYZ_Rush_Moving_Pictures_Deluxe_Edition_2011.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 39 / 97 ....Current results  Counter({'#Patterns': 23790, '#CorrectPatternPred': 16863, '#Songs': 36, '#CorrectSongPred': 31})
+Processing... 04 Black Rose Immortal.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 40 / 97 ....Current results  Counter({'#Patterns': 24994, '#CorrectPatternPred': 17508, '#Songs': 37, '#CorrectSongPred': 32})
+Processing... 04 The Sleepwalkers.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 41 / 97 ....Current results  Counter({'#Patterns': 25613, '#CorrectPatternPred': 17961, '#Songs': 38, '#CorrectSongPred': 33})
+Processing... 04-Stranger In Your Soul_Resampled.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 42 / 97 ....Current results  Counter({'#Patterns': 27404, '#CorrectPatternPred': 18720, '#Songs': 39, '#CorrectSongPred': 33})
+Processing... 04. Second Life Syndrome.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 43 / 97 ....Current results  Counter({'#Patterns': 28334, '#CorrectPatternPred': 19599, '#Songs': 40, '#CorrectSongPred': 34})
+Processing... 04. The Czar I. Usurper - II. Escape - III. Martyr - IV. Spiral_khaos[].mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 44 / 97 ....Current results  Counter({'#Patterns': 28976, '#CorrectPatternPred': 19867, '#Songs': 41, '#CorrectSongPred': 34})
+Processing... 04_La_Villa_Strangiato_Rush_Hemispheres_Deluxe_Edition.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 45 / 97 ....Current results  Counter({'#Patterns': 29539, '#CorrectPatternPred': 20376, '#Songs': 42, '#CorrectSongPred': 35})
+Processing... 05 - Starless.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 46 / 97 ....Current results  Counter({'#Patterns': 30263, '#CorrectPatternPred': 21054, '#Songs': 43, '#CorrectSongPred': 36})
+Processing... 05 - Vivaldi.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 47 / 97 ....Current results  Counter({'#Patterns': 30702, '#CorrectPatternPred': 21452, '#Songs': 44, '#CorrectSongPred': 37})
+Processing... 05-Nine Feet Underground.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 48 / 97 ....Current results  Counter({'#Patterns': 32055, '#CorrectPatternPred': 22743, '#Songs': 45, '#CorrectSongPred': 38})
+Processing... 05-Phallus Dei.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 49 / 97 ....Current results  Counter({'#Patterns': 33292, '#CorrectPatternPred': 23626, '#Songs': 46, '#CorrectSongPred': 39})
+Processing... 05. When the Water Breaks.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 50 / 97 ....Current results  Counter({'#Patterns': 34299, '#CorrectPatternPred': 24501, '#Songs': 47, '#CorrectSongPred': 40})
+Processing... 05_Arriving Somewhere but Not Here.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 51 / 97 ....Current results  Counter({'#Patterns': 35010, '#CorrectPatternPred': 24868, '#Songs': 48, '#CorrectSongPred': 41})
+Processing... 05_Schism.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 52 / 97 ....Current results  Counter({'#Patterns': 35402, '#CorrectPatternPred': 25242, '#Songs': 49, '#CorrectSongPred': 42})
+Processing... 06 - Echoes.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 53 / 97 ....Current results  Counter({'#Patterns': 36800, '#CorrectPatternPred': 25934, '#Songs': 50, '#CorrectSongPred': 42})
+Processing... 06 - Scene Four  Beyond This Life.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 54 / 97 ....Current results  Counter({'#Patterns': 37472, '#CorrectPatternPred': 26525, '#Songs': 51, '#CorrectSongPred': 43})
+Processing... 06 Mekanik Kommandoh.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 55 / 97 ....Current results  Counter({'#Patterns': 37710, '#CorrectPatternPred': 26748, '#Songs': 52, '#CorrectSongPred': 44})
+Processing... 06-In a glass house.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 56 / 97 ....Current results  Counter({'#Patterns': 38185, '#CorrectPatternPred': 26932, '#Songs': 53, '#CorrectSongPred': 44})
+Processing... 06-king_crimson-larks_tounges_in_aspic_(part_ii).mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 57 / 97 ....Current results  Counter({'#Patterns': 38606, '#CorrectPatternPred': 27124, '#Songs': 54, '#CorrectSongPred': 44})
+Processing... 06. Milliontown.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 58 / 97 ....Current results  Counter({'#Patterns': 40189, '#CorrectPatternPred': 27954, '#Songs': 55, '#CorrectSongPred': 45})
+Processing... 06_Genesis_Supper's Ready.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 59 / 97 ....Current results  Counter({'#Patterns': 41551, '#CorrectPatternPred': 28964, '#Songs': 56, '#CorrectSongPred': 46})
+Processing... 07 - Fool's Overture.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 60 / 97 ....Current results  Counter({'#Patterns': 42189, '#CorrectPatternPred': 29411, '#Songs': 57, '#CorrectSongPred': 47})
+Processing... 07 - The Night_ Nights in White Satin.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 61 / 97 ....Current results  Counter({'#Patterns': 42621, '#CorrectPatternPred': 29682, '#Songs': 58, '#CorrectSongPred': 48})
+Processing... 07 - Zartlicher Abschied.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 62 / 97 ....Current results  Counter({'#Patterns': 42965, '#CorrectPatternPred': 29974, '#Songs': 59, '#CorrectSongPred': 49})
+Processing... 07 A Louse Is Not A Home.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 63 / 97 ....Current results  Counter({'#Patterns': 43684, '#CorrectPatternPred': 30254, '#Songs': 60, '#CorrectSongPred': 49})
+Processing... 08 - Kingdom Of Dreams.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 64 / 97 ....Current results  Counter({'#Patterns': 44079, '#CorrectPatternPred': 30641, '#Songs': 61, '#CorrectSongPred': 50})
+Processing... 08 - Lady Fantasy.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 65 / 97 ....Current results  Counter({'#Patterns': 45032, '#CorrectPatternPred': 31327, '#Songs': 62, '#CorrectSongPred': 51})
+Processing... 08 - Octavarium.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 66 / 97 ....Current results  Counter({'#Patterns': 46462, '#CorrectPatternPred': 32002, '#Songs': 63, '#CorrectSongPred': 51})
+Processing... 08 - The Divine Wings Of Tragedy.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 67 / 97 ....Current results  Counter({'#Patterns': 47694, '#CorrectPatternPred': 32787, '#Songs': 64, '#CorrectSongPred': 52})
+Processing... 08 - White Walls.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 68 / 97 ....Current results  Counter({'#Patterns': 48534, '#CorrectPatternPred': 33518, '#Songs': 65, '#CorrectSongPred': 53})
+Processing... 08-This Strange Engine.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 69 / 97 ....Current results  Counter({'#Patterns': 50325, '#CorrectPatternPred': 34016, '#Songs': 66, '#CorrectSongPred': 53})
+Processing... 08. Guardian.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 70 / 97 ....Current results  Counter({'#Patterns': 50764, '#CorrectPatternPred': 34394, '#Songs': 67, '#CorrectSongPred': 54})
+Processing... 08_-_opeth_-_blackwater park_-_blackwater park.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 71 / 97 ....Current results  Counter({'#Patterns': 51479, '#CorrectPatternPred': 34897, '#Songs': 68, '#CorrectSongPred': 55})
+Processing... 09 - Ancestral.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 72 / 97 ....Current results  Counter({'#Patterns': 52278, '#CorrectPatternPred': 35387, '#Songs': 69, '#CorrectSongPred': 56})
+Processing... 09 - Headlong Flight.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 73 / 97 ....Current results  Counter({'#Patterns': 52708, '#CorrectPatternPred': 35668, '#Songs': 70, '#CorrectSongPred': 57})
+Processing... 09 Heart Of The Sunrise.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 74 / 97 ....Current results  Counter({'#Patterns': 53380, '#CorrectPatternPred': 36170, '#Songs': 71, '#CorrectSongPred': 58})
+Processing... 09. Bo Hansson - Rohans Horn - Slaget vid Pelennors slatter.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 75 / 97 ....Current results  Counter({'#Patterns': 53605, '#CorrectPatternPred': 36374, '#Songs': 72, '#CorrectSongPred': 59})
+Processing... 101 21st Century Schizoid Man.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 76 / 97 ....Current results  Counter({'#Patterns': 54038, '#CorrectPatternPred': 36770, '#Songs': 73, '#CorrectSongPred': 60})
+Processing... 101-elp-tarkus.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 77 / 97 ....Current results  Counter({'#Patterns': 55266, '#CorrectPatternPred': 37837, '#Songs': 74, '#CorrectSongPred': 61})
+Processing... 103 Epitaph.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 78 / 97 ....Current results  Counter({'#Patterns': 55786, '#CorrectPatternPred': 38231, '#Songs': 75, '#CorrectSongPred': 62})
+Processing... 103 Moon In June.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 79 / 97 ....Current results  Counter({'#Patterns': 56922, '#CorrectPatternPred': 38852, '#Songs': 76, '#CorrectSongPred': 63})
+Processing... 105-emerson_lake_and_palmer-karn_evil_9_1st_impression_(part_1).mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 80 / 97 ....Current results  Counter({'#Patterns': 57426, '#CorrectPatternPred': 39339, '#Songs': 77, '#CorrectSongPred': 64})
+Processing... 11 Bohemian Rhapsody.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 81 / 97 ....Current results  Counter({'#Patterns': 57770, '#CorrectPatternPred': 39541, '#Songs': 78, '#CorrectSongPred': 65})
+Processing... 12-animals_as_leaders-song_of_solomon.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 82 / 97 ....Current results  Counter({'#Patterns': 58010, '#CorrectPatternPred': 39752, '#Songs': 79, '#CorrectSongPred': 66})
+Processing... 13 - A Day in the Life.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 83 / 97 ....Current results  Counter({'#Patterns': 58332, '#CorrectPatternPred': 39969, '#Songs': 80, '#CorrectSongPred': 67})
+Processing... 13 Aenema.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 84 / 97 ....Current results  Counter({'#Patterns': 58718, '#CorrectPatternPred': 40299, '#Songs': 81, '#CorrectSongPred': 68})
+Processing... 205 The Court Of The Crimson King.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 85 / 97 ....Current results  Counter({'#Patterns': 59270, '#CorrectPatternPred': 40763, '#Songs': 82, '#CorrectSongPred': 69})
+Processing... 4-Song Of Scheherazade.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 86 / 97 ....Current results  Counter({'#Patterns': 60739, '#CorrectPatternPred': 41632, '#Songs': 83, '#CorrectSongPred': 70})
+Processing... 5  The architect.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 87 / 97 ....Current results  Counter({'#Patterns': 61013, '#CorrectPatternPred': 41696, '#Songs': 84, '#CorrectSongPred': 70})
+Processing... Appena un poco.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 88 / 97 ....Current results  Counter({'#Patterns': 61463, '#CorrectPatternPred': 42087, '#Songs': 85, '#CorrectSongPred': 71})
+Processing... Big Big Train - English Electric (Part Two) - 01 - East Coast Racer.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 89 / 97 ....Current results  Counter({'#Patterns': 62390, '#CorrectPatternPred': 42647, '#Songs': 86, '#CorrectSongPred': 72})
+Processing... Frances the Mute-The Mars Volta-05-Cassandra Geminni 1.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 90 / 97 ....Current results  Counter({'#Patterns': 62665, '#CorrectPatternPred': 42823, '#Songs': 87, '#CorrectSongPred': 73})
+Processing... Kansas - 08 Magnum Opus a)Father Padilla Meets The Perfect Gnat b)Howling At The Moon c)Man Overboard d)Industry On Parade e)Release The Be.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 91 / 97 ....Current results  Counter({'#Patterns': 63158, '#CorrectPatternPred': 43269, '#Songs': 88, '#CorrectSongPred': 74})
+Processing... Kraftwerk - 01 - Autobahn.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 92 / 97 ....Current results  Counter({'#Patterns': 64509, '#CorrectPatternPred': 43987, '#Songs': 89, '#CorrectSongPred': 75})
+Processing... L'evoluzione.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 93 / 97 ....Current results  Counter({'#Patterns': 65336, '#CorrectPatternPred': 44511, '#Songs': 90, '#CorrectSongPred': 76})
+Processing... MIKE OLDFIELD - Part One (Tubular Bells I).mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 94 / 97 ....Current results  Counter({'#Patterns': 66857, '#CorrectPatternPred': 45752, '#Songs': 91, '#CorrectSongPred': 77})
+Processing... Pain of Salvation - The Perfect Element I - 02. In the Flesh.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 95 / 97 ....Current results  Counter({'#Patterns': 67363, '#CorrectPatternPred': 46224, '#Songs': 92, '#CorrectSongPred': 78})
+Processing... The Flower Kings - 1997 Stardust We Are CD2 - 11 - Stardust We Are.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 96 / 97 ....Current results  Counter({'#Patterns': 68856, '#CorrectPatternPred': 47308, '#Songs': 93, '#CorrectSongPred': 79})
+Processing... Thick As A Brick.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 97 / 97 ....Current results  Counter({'#Patterns': 71469, '#CorrectPatternPred': 49568, '#Songs': 94, '#CorrectSongPred': 80})
+Processing... 01 - Autumn Lords.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 1 / 61 ....Current results  Counter({'#Patterns': 192, '#CorrectPatternPred': 3, '#Songs': 1, '#CorrectSongPred': 0})
+Processing... 01 - Big Chief.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 2 / 61 ....Current results  Counter({'#Patterns': 375, '#CorrectPatternPred': 111, '#Songs': 2, '#CorrectSongPred': 1})
+Processing... 01 - End Titles from Blade Runner.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 3 / 61 ....Current results  Counter({'#Patterns': 656, '#CorrectPatternPred': 331, '#Songs': 3, '#CorrectSongPred': 2})
+Processing... 01 - My Spirit Will Go On.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 4 / 61 ....Current results  Counter({'#Patterns': 1118, '#CorrectPatternPred': 337, '#Songs': 4, '#CorrectSongPred': 2})
+Processing... 01 - Pulcinella, 1st scene_ Ouverture.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 5 / 61 ....Current results  Counter({'#Patterns': 1232, '#CorrectPatternPred': 430, '#Songs': 5, '#CorrectSongPred': 3})
+Processing... 01 - Tiempo Al Tiempo.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 6 / 61 ....Current results  Counter({'#Patterns': 1482, '#CorrectPatternPred': 624, '#Songs': 6, '#CorrectSongPred': 4})
+Processing... 01-Light - Look At Your Sun.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 7 / 61 ....Current results  Counter({'#Patterns': 1864, '#CorrectPatternPred': 913, '#Songs': 7, '#CorrectSongPred': 5})
+Processing... 01. Painkiller.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 8 / 61 ....Current results  Counter({'#Patterns': 2218, '#CorrectPatternPred': 924, '#Songs': 8, '#CorrectSongPred': 5})
+Processing... 01.ArmenMiran-PreciousStory.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 9 / 61 ....Current results  Counter({'#Patterns': 2601, '#CorrectPatternPred': 1299, '#Songs': 9, '#CorrectSongPred': 6})
+Processing... 01_Surfing with the Alien.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 10 / 61 ....Current results  Counter({'#Patterns': 2852, '#CorrectPatternPred': 1455, '#Songs': 10, '#CorrectSongPred': 7})
+Processing... 02 - Adagio in C Minor.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 11 / 61 ....Current results  Counter({'#Patterns': 3070, '#CorrectPatternPred': 1604, '#Songs': 11, '#CorrectSongPred': 8})
+Processing... 02 - Joie De Vivre.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 12 / 61 ....Current results  Counter({'#Patterns': 3639, '#CorrectPatternPred': 2128, '#Songs': 12, '#CorrectSongPred': 9})
+Processing... 02 - Petrichrist.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 13 / 61 ....Current results  Counter({'#Patterns': 4007, '#CorrectPatternPred': 2470, '#Songs': 13, '#CorrectSongPred': 10})
+Processing... 02 - Someone In The Crowd.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 14 / 61 ....Current results  Counter({'#Patterns': 4254, '#CorrectPatternPred': 2656, '#Songs': 14, '#CorrectSongPred': 11})
+Processing... 02 - Violin Concerto in D Major_ Adagio.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 15 / 61 ....Current results  Counter({'#Patterns': 4760, '#CorrectPatternPred': 3143, '#Songs': 15, '#CorrectSongPred': 12})
+Processing... 02 Aja.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 16 / 61 ....Current results  Counter({'#Patterns': 5226, '#CorrectPatternPred': 3319, '#Songs': 16, '#CorrectSongPred': 12})
+Processing... 03 - Angel of Music.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 17 / 61 ....Current results  Counter({'#Patterns': 5355, '#CorrectPatternPred': 3432, '#Songs': 17, '#CorrectSongPred': 13})
+Processing... 03 - Bayaty.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 18 / 61 ....Current results  Counter({'#Patterns': 5700, '#CorrectPatternPred': 3750, '#Songs': 18, '#CorrectSongPred': 14})
+Processing... 03 - The national anthem.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 19 / 61 ....Current results  Counter({'#Patterns': 6035, '#CorrectPatternPred': 4070, '#Songs': 19, '#CorrectSongPred': 15})
+Processing... 03 Midnight At The Bazaar.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 20 / 61 ....Current results  Counter({'#Patterns': 6542, '#CorrectPatternPred': 4514, '#Songs': 20, '#CorrectSongPred': 16})
+Processing... 03-oneohtrix_point_never-betrayed_in_the_octagon-kouala.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 21 / 61 ....Current results  Counter({'#Patterns': 6742, '#CorrectPatternPred': 4706, '#Songs': 21, '#CorrectSongPred': 17})
+Processing... 03. Ten-Day Interval.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 22 / 61 ....Current results  Counter({'#Patterns': 7016, '#CorrectPatternPred': 4944, '#Songs': 22, '#CorrectSongPred': 18})
+Processing... 03_Losfer Words (Big 'Orra).mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 23 / 61 ....Current results  Counter({'#Patterns': 7258, '#CorrectPatternPred': 5026, '#Songs': 23, '#CorrectSongPred': 18})
+Processing... 04 - Ayasofya.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 24 / 61 ....Current results  Counter({'#Patterns': 7442, '#CorrectPatternPred': 5169, '#Songs': 24, '#CorrectSongPred': 19})
+Processing... 04 - Big Shot.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 25 / 61 ....Current results  Counter({'#Patterns': 7743, '#CorrectPatternPred': 5452, '#Songs': 25, '#CorrectSongPred': 20})
+Processing... 04 - Condor Pasa.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 26 / 61 ....Current results  Counter({'#Patterns': 8024, '#CorrectPatternPred': 5670, '#Songs': 26, '#CorrectSongPred': 21})
+Processing... 04 - Devil's Advocate _ Bambodansarna.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 27 / 61 ....Current results  Counter({'#Patterns': 8369, '#CorrectPatternPred': 5936, '#Songs': 27, '#CorrectSongPred': 22})
+Processing... 04 - El corrido de Alfonso.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 28 / 61 ....Current results  Counter({'#Patterns': 8566, '#CorrectPatternPred': 6108, '#Songs': 28, '#CorrectSongPred': 23})
+Processing... 06 - Give It Up.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 29 / 61 ....Current results  Counter({'#Patterns': 8873, '#CorrectPatternPred': 6405, '#Songs': 29, '#CorrectSongPred': 24})
+Processing... 06 - Sigur Rós - Sæglópur.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 30 / 61 ....Current results  Counter({'#Patterns': 9312, '#CorrectPatternPred': 6748, '#Songs': 30, '#CorrectSongPred': 25})
+Processing... 06 Savana Dance.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 31 / 61 ....Current results  Counter({'#Patterns': 9567, '#CorrectPatternPred': 6983, '#Songs': 31, '#CorrectSongPred': 26})
+Processing... 06. In A Gadda Da Vida.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 32 / 61 ....Current results  Counter({'#Patterns': 10579, '#CorrectPatternPred': 7927, '#Songs': 32, '#CorrectSongPred': 27})
+Processing... 07_Summoning Of The Muse.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 33 / 61 ....Current results  Counter({'#Patterns': 10863, '#CorrectPatternPred': 8191, '#Songs': 33, '#CorrectSongPred': 28})
+Processing... 08 - Asmarina (My Asmara).mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 34 / 61 ....Current results  Counter({'#Patterns': 11147, '#CorrectPatternPred': 8413, '#Songs': 34, '#CorrectSongPred': 29})
+Processing... 08 - Tsinandali Choir - Orovela.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 35 / 61 ....Current results  Counter({'#Patterns': 11438, '#CorrectPatternPred': 8686, '#Songs': 35, '#CorrectSongPred': 30})
+Processing... 08 - Xoomij.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 36 / 61 ....Current results  Counter({'#Patterns': 11604, '#CorrectPatternPred': 8852, '#Songs': 36, '#CorrectSongPred': 31})
+Processing... 08 I Could Have Danced All Night.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 37 / 61 ....Current results  Counter({'#Patterns': 11830, '#CorrectPatternPred': 9068, '#Songs': 37, '#CorrectSongPred': 32})
+Processing... 08 Listen.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 38 / 61 ....Current results  Counter({'#Patterns': 12228, '#CorrectPatternPred': 9304, '#Songs': 38, '#CorrectSongPred': 33})
+Processing... 08-love_to_love_320_lame_cbr.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 39 / 61 ....Current results  Counter({'#Patterns': 12674, '#CorrectPatternPred': 9532, '#Songs': 39, '#CorrectSongPred': 34})
+Processing... 09. Tel Aviv.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 40 / 61 ....Current results  Counter({'#Patterns': 12979, '#CorrectPatternPred': 9603, '#Songs': 40, '#CorrectSongPred': 34})
+Processing... 1-01 Eruption.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 41 / 61 ....Current results  Counter({'#Patterns': 13070, '#CorrectPatternPred': 9678, '#Songs': 41, '#CorrectSongPred': 35})
+Processing... 11 - Hello Earth.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 42 / 61 ....Current results  Counter({'#Patterns': 13432, '#CorrectPatternPred': 9970, '#Songs': 42, '#CorrectSongPred': 36})
+Processing... 13 - Al Hahla Al ’Ali.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 43 / 61 ....Current results  Counter({'#Patterns': 13596, '#CorrectPatternPred': 10127, '#Songs': 43, '#CorrectSongPred': 37})
+Processing... 13 - So Long, Farewell.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 44 / 61 ....Current results  Counter({'#Patterns': 13758, '#CorrectPatternPred': 10269, '#Songs': 44, '#CorrectSongPred': 38})
+Processing... 13 Metin Arolat - Elveda.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 45 / 61 ....Current results  Counter({'#Patterns': 14032, '#CorrectPatternPred': 10533, '#Songs': 45, '#CorrectSongPred': 39})
+Processing... 16 - Madhuban Mein Radhika Nache Re (Kohinoor 1960).mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 46 / 61 ....Current results  Counter({'#Patterns': 14379, '#CorrectPatternPred': 10863, '#Songs': 46, '#CorrectSongPred': 40})
+Processing... 16 - Navras.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 47 / 61 ....Current results  Counter({'#Patterns': 14914, '#CorrectPatternPred': 11288, '#Songs': 47, '#CorrectSongPred': 41})
+Processing... 3. My Beautiful Dark Twisted Fantasy - POWER.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 48 / 61 ....Current results  Counter({'#Patterns': 15193, '#CorrectPatternPred': 11517, '#Songs': 48, '#CorrectSongPred': 42})
+Processing... Ali Farka Toure with Ry Cooder - Talking Timbuktu - 10 - Diaraby.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 49 / 61 ....Current results  Counter({'#Patterns': 15626, '#CorrectPatternPred': 11940, '#Songs': 49, '#CorrectSongPred': 43})
+Processing... Anu_Orta_Veniya.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 50 / 61 ....Current results  Counter({'#Patterns': 15941, '#CorrectPatternPred': 12193, '#Songs': 50, '#CorrectSongPred': 44})
+Processing... Aphex Twin - Avril 14th.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 51 / 61 ....Current results  Counter({'#Patterns': 16051, '#CorrectPatternPred': 12301, '#Songs': 51, '#CorrectSongPred': 45})
+Processing... C-Pop_Hits_1.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 52 / 61 ....Current results  Counter({'#Patterns': 16240, '#CorrectPatternPred': 12413, '#Songs': 52, '#CorrectSongPred': 46})
+Processing... Chinna Chinna Aasai - ROJA.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 53 / 61 ....Current results  Counter({'#Patterns': 16521, '#CorrectPatternPred': 12596, '#Songs': 53, '#CorrectSongPred': 47})
+Processing... Hallelujah_Kate_McKinnon.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 54 / 61 ....Current results  Counter({'#Patterns': 16692, '#CorrectPatternPred': 12753, '#Songs': 54, '#CorrectSongPred': 48})
+Processing... K-Pop_1.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 55 / 61 ....Current results  Counter({'#Patterns': 16935, '#CorrectPatternPred': 12995, '#Songs': 55, '#CorrectSongPred': 49})
+Processing... Khalil_Fong_Love_in_this_world.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 56 / 61 ....Current results  Counter({'#Patterns': 17099, '#CorrectPatternPred': 13135, '#Songs': 56, '#CorrectSongPred': 50})
+Processing... rasme-asheghi.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 57 / 61 ....Current results  Counter({'#Patterns': 17256, '#CorrectPatternPred': 13276, '#Songs': 57, '#CorrectSongPred': 51})
+Processing... Russ Conway - Pepe.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 58 / 61 ....Current results  Counter({'#Patterns': 17387, '#CorrectPatternPred': 13327, '#Songs': 58, '#CorrectSongPred': 51})
+Processing... Salif Keita - Cono.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 59 / 61 ....Current results  Counter({'#Patterns': 17737, '#CorrectPatternPred': 13593, '#Songs': 59, '#CorrectSongPred': 52})
+Processing... Serge_Prokofiev_1.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 60 / 61 ....Current results  Counter({'#Patterns': 18178, '#CorrectPatternPred': 13988, '#Songs': 60, '#CorrectSongPred': 53})
+Processing... Symphony_40_G_Minor.mp3
+D:\Pyhton\envs\tensorflow\lib\site-packages\librosa\core\audio.py:162: UserWarning: PySoundFile failed. Trying audioread instead.
+  warnings.warn("PySoundFile failed. Trying audioread instead.")
+Validating song No. 61 / 61 ....Current results  Counter({'#Patterns': 18637, '#CorrectPatternPred': 14317, '#Songs': 61, '#CorrectSongPred': 54})
+
+86% Accuracy
